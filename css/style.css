@@ -33,11 +33,11 @@ body {
     }
     main img {
         width: 50% !important;
-        display:block;
+        display: block;
     }
     p {
-     padding: 0 50px; 
-     text-align: justify
+        padding: 0 50px;
+        text-align: justify
     }
 }
 
@@ -45,12 +45,10 @@ body {
     main img {
         width: 100% !important;
     }
-     p {
-     padding: 0 0; 
-     text-align: justify
+    p {
+        padding: 0 0;
+        text-align: justify
     }
-    
-    
 }
 
 .navbar {
@@ -96,7 +94,7 @@ h3 {
 p {
     font-family: 'Roboto', sans-serif;
     /*    font-size: 2vmin;*/
-    margin:0;
+    margin: 0;
 }
 
 hr {
@@ -154,12 +152,8 @@ main hr {
 }
 
 .portfolio p a {
-    color: lightblue;      
+    color: lightblue;
 }
-
-
-
-#cv {}
 
 #contact a {
     color: lightblue;
@@ -190,8 +184,8 @@ main img {
 
 .modal-body {
     background-color: rgba(0, 0, 0, 0.1);
-    color:black;
-    text-align: center;    
+    color: black;
+    text-align: center;
 }
 
 .modal-body img {
